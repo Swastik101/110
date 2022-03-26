@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/8360p5u9u/moda;.json
